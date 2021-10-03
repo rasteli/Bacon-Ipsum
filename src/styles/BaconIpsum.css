@@ -1,0 +1,15 @@
+.divider {
+  width: 70vw;
+  border-top: 1.5px solid rgb(124, 124, 124);
+  margin-bottom: 15px;
+}
+
+.content-container {
+  width: 80%;
+}
+
+p {
+  text-align: justify;
+  text-justify: inter-word;
+  font-size: 15pt;
+}
